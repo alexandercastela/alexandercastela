@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Alexander
 About Me
-Education
+
+Education:
 - 👨🏽‍🎓 MS Information Systems (2021)
 
-Hobbies & Interests
+Hobbies & Interests:
 - 📷 Photography
 - 👨🏽‍💻 Web Design
 <!--
