@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Alexander
+About Me
+Education
+- 👨🏽‍🎓 MS Information Systems (2021)
 
-
+Hobbies & Interests
+- 📷 Photography
+- 👨🏽‍💻 Web Design
 <!--
 **alexandercastela/alexandercastela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
